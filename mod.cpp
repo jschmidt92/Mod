@@ -1,4 +1,4 @@
-dir = "@sof_mod";
+dir = "@sof";
 name = "SOF Mod";
 
 author = "SOF";
