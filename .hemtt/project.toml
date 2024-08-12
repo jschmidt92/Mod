@@ -1,0 +1,14 @@
+name = "SOF Mod"
+author = "SOF"
+prefix = "sof"
+mainprefix = "z"
+
+[files]
+include = [
+    "sof_mod_version.json",
+    "*.paa",
+    "userconfig/**/*"
+]
+
+[version]
+git_hash = 0 # Disabled
