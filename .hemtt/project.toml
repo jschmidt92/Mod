@@ -5,7 +5,7 @@ mainprefix = "z"
 
 [files]
 include = [
-    "sof_version.json",
+    "sof_mod_version.json",
     "*.paa",
     "userconfig/**/*"
 ]
